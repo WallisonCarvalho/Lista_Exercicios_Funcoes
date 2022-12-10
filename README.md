@@ -1,4 +1,4 @@
-# Lista_Exercicios_Funções
+# Lista_Exercícios_Funções
 # Acesse aos exercícios pelo Link: https://wiki.python.org.br/ExerciciosFuncoes.
 ## Desenvolvedor: Wallison Carvcalho
 ## Universidade São Judas
